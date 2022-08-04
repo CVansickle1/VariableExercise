@@ -1,0 +1,14 @@
+C:\Users\cojo3\Desktop\repos\VariablesExercise\VariablesExercise\obj\Debug\netcoreapp3.1\VariablesExercise.csproj.AssemblyReference.cache
+C:\Users\cojo3\Desktop\repos\VariablesExercise\VariablesExercise\obj\Debug\netcoreapp3.1\VariablesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cojo3\Desktop\repos\VariablesExercise\VariablesExercise\obj\Debug\netcoreapp3.1\VariablesExercise.AssemblyInfoInputs.cache
+C:\Users\cojo3\Desktop\repos\VariablesExercise\VariablesExercise\obj\Debug\netcoreapp3.1\VariablesExercise.AssemblyInfo.cs
+C:\Users\cojo3\Desktop\repos\VariablesExercise\VariablesExercise\obj\Debug\netcoreapp3.1\VariablesExercise.csproj.CoreCompileInputs.cache
+C:\Users\cojo3\Desktop\repos\VariablesExercise\VariablesExercise\bin\Debug\netcoreapp3.1\VariablesExercise.exe
+C:\Users\cojo3\Desktop\repos\VariablesExercise\VariablesExercise\bin\Debug\netcoreapp3.1\VariablesExercise.deps.json
+C:\Users\cojo3\Desktop\repos\VariablesExercise\VariablesExercise\bin\Debug\netcoreapp3.1\VariablesExercise.runtimeconfig.json
+C:\Users\cojo3\Desktop\repos\VariablesExercise\VariablesExercise\bin\Debug\netcoreapp3.1\VariablesExercise.runtimeconfig.dev.json
+C:\Users\cojo3\Desktop\repos\VariablesExercise\VariablesExercise\bin\Debug\netcoreapp3.1\VariablesExercise.dll
+C:\Users\cojo3\Desktop\repos\VariablesExercise\VariablesExercise\bin\Debug\netcoreapp3.1\VariablesExercise.pdb
+C:\Users\cojo3\Desktop\repos\VariablesExercise\VariablesExercise\obj\Debug\netcoreapp3.1\VariablesExercise.dll
+C:\Users\cojo3\Desktop\repos\VariablesExercise\VariablesExercise\obj\Debug\netcoreapp3.1\VariablesExercise.pdb
+C:\Users\cojo3\Desktop\repos\VariablesExercise\VariablesExercise\obj\Debug\netcoreapp3.1\VariablesExercise.genruntimeconfig.cache
