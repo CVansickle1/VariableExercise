@@ -6,22 +6,22 @@ namespace VariablesExercise
     {
         static void Main(string[] args)
         {
-            string myname = "Cody";
+            string myName = "Cody";
             
-            int myage = 26;
+            int myAge = 26;
             
-            char lastinital = 'V';
+            char lastInital = 'V';
             
-            bool ismarried = false;
+            bool isMarried = false;
             
             double upload = 23.1;
             
             decimal download = 550.3m;
 
-            string example = ismarried ? "am" : "am not";
+            string example = isMarried ? "am" : "am not";
 
             
-            Console.WriteLine($"Hello my name is {myname} {lastinital}, I am {myage} I {example} married I will be in Febuary.");
+            Console.WriteLine($"Hello my name is {myName} {lastInital}, I am {myAge} I {example} married I will be in Febuary.");
             
             Console.WriteLine($"My Current Internet Speed is {upload} Up and {download} down");
             
