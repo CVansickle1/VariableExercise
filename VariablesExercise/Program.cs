@@ -37,7 +37,7 @@ namespace VariablesExercise
             
             if (!double.TryParse(Console.ReadLine(), out yourDown)) Console.WriteLine("woah thats not what I expected try using regular number please");
 
-            if (yourDown > 50)
+            if (yourDown >= 50 && yourUp >= 20)
             {
                 Console.WriteLine("Wow thats Fast!");
             }
